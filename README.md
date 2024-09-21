@@ -20,7 +20,7 @@
 </div>
 
 ## Comunidade Code Warriors
-<p>Sou fundadora e co-organizadora da comunidade Code Warriors, que tem como objetivo promover projetos colaborativos entre desenvolvedores. A comunidade organiza eventos, encontros e oferece conteúdos voltados para o crescimento técnico e profissional dos seus membros, incentivando a troca de experiências e o trabalho em equipe</p>
+<p>Sou fundadora e co-organizadora da comunidade Code Warriors, que tem como objetivo promover projetos colaborativos entre desenvolvedores. A comunidade organiza eventos, encontros e oferece conteúdos voltados para o crescimento técnico e profissional dos seus membros, incentivando a troca de experiências e o trabalho em equipe.</p>
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1258585211575337010/1276221326843056239/1281806759333335050)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/codewarriorsdevs/)
