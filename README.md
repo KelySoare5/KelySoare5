@@ -24,6 +24,3 @@
 
 [![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://codewarriorsdevs.vercel.app/)
 
-## Projetos desenvolvidos na comunidade
-
-- [Opus: plataforma de empregos da cidade de Pedro II.](https://github.com/KelySoare5/opus)<br/>
