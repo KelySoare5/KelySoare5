@@ -20,7 +20,7 @@
 </div>
 
 ## Comunidade Code Warriors
-<p>Sou fundadora e co-organizadora da comunidade Code Warriors, que tem como objetivo promover projetos colaborativos entre desenvolvedores. A comunidade organiza eventos, encontros e oferece conteúdos voltados para o crescimento técnico e profissional dos seus membros, incentivando a troca de experiências e o trabalho em equipe.</p>
+<p>Sou Organizadora da comunidade Code Warriors, que tem como objetivo promover o desenvolvimento de projetos open-source com mentoria, networking e incentivo a apresentações em eventos, oferecendo um ambiente colaborativo e enriquecedor.</p>
 
 [![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://codewarriorsdevs.vercel.app/)
 
